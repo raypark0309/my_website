@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://rayparkportfolio.netlify.app
 languageCode: en-us
 title: Forty
 theme: forty
@@ -8,24 +8,23 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+      MFA Student at London Business School
+    title: Hey, I'm RAY PARK
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: London, NW6 1PF
+        country: United Kingdom
+        street: 211 Sumatra Road
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: rpark.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (+44) 078 280 6781
         title: Phone
   custom_css: []
   custom_js: []
@@ -35,28 +34,28 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: London Business School
     enable: yes
     quicklinks:
       - alt: HTML5 UP
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
+      #- icon: fa-twitter
+        #label: Twitter
+        #url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://www.facebook.com/raypark.0309
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/p.ray_daily/
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/raypark0309
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/hyuk-ray-park/
   image: ''
   name: Your name
   navigation:
@@ -69,42 +68,42 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: Blogs
-        url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      #- name: Blogs
+        #url: blogs
+      #- name: Generic Blog
+        #url: blogs/ipsum
+      #- name: Elements
+        #url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+      - image: pic2.jpg
+        subtitle: Who am I?
+        title: About 
         url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+      - image: pic3.png
+        subtitle: My experience and skills
+        title: Resume
         url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+      - image: pic1.png
+        subtitle: 
+        title: AirBnb Analytics 
         url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+      #- image: pic04.jpg
+        #subtitle: Nisl Sed Aliquam
+        #title: Ipsum
+        #url: blogs/ipsum
+      #- image: pic05.jpg
+        #subtitle: Ipsum Dolor Sit Amet
+        #title: Consequat
+        #url: blogs/ipsum
+      #- image: pic06.jpg
+        #subtitle: Feugiat Amet Tempus
+        #title: Etiam
+        #url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
