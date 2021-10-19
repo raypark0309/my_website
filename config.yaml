@@ -68,8 +68,8 @@ params:
     links:
       - name: Home
         url: '#'
-      #- name: Blogs
-        #url: blogs
+      - name: Blogs
+        url: blogs
       #- name: Generic Blog
         #url: blogs/ipsum
       #- name: Elements
@@ -84,14 +84,14 @@ params:
         subtitle: Who am I?
         title: About 
         url: blogs/aliquam
-      - image: pic3.png
+      - image: pic4.png
         subtitle: My experience and skills
         title: Resume
         url: blogs/tempus
       - image: pic1.png
         subtitle: 
         title: AirBnb Analytics 
-        url: blogs/magna
+        url: blogs/Group_project_Final Version
       #- image: pic04.jpg
         #subtitle: Nisl Sed Aliquam
         #title: Ipsum
