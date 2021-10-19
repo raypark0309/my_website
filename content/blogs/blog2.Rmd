@@ -1,5 +1,6 @@
 ---
 title: "Final Group Project: AirBnB analytics"
+image: "pic14.png"
 date: "12 Oct 2021"
 author: "Reading Time: About 8 minutes"
 output:
