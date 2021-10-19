@@ -87,11 +87,11 @@ params:
       - image: pic4.png
         subtitle: My experience and skills
         title: Resume
-        url: blogs/tempus
+        url: '/files/Hyuk Park CV 1.pdf'
       - image: pic1.png
         subtitle: 
         title: AirBnb Analytics 
-        url: blogs/Group_project_Final Version
+        url: blogs/magna
       #- image: pic04.jpg
         #subtitle: Nisl Sed Aliquam
         #title: Ipsum
