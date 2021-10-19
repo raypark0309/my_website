@@ -5,7 +5,7 @@ categories:
 date: "2017-10-31T22:42:51-05:00"
 description: Short Biography of Ray Park
 draft: false
-image: pic07.jpg
+image: pic2.1.jpg
 keywords: ""
 slug: aliquam
 title: About
