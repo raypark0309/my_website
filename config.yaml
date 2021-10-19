@@ -91,7 +91,7 @@ params:
       - image: pic1.png
         subtitle: 
         title: AirBnb Analytics 
-        url: blogs/magna
+        url: '/blogs/Group_project_Final Version.Rmd'
       #- image: pic04.jpg
         #subtitle: Nisl Sed Aliquam
         #title: Ipsum
