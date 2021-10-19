@@ -1,8 +1,18 @@
 ---
-title: "Final Group Project: AirBnB analytics"
-image: "pic14.png"
-date: "12 Oct 2021"
-author: "Reading Time: About 8 minutes"
+categories:
+- ""
+- ""
+date: "2017-10-31T22:42:51-05:00"
+description: Short Biography of Ray Park
+draft: false
+image: pic2.1.jpg
+keywords: ""
+slug: aliquam
+title: About
+---
+title: "Final Group Project: AirBnB analytics" 
+date: "12 Oct 2021" 
+author: "Reading Time: About 8 minutes" 
 output:
   html_document:
     highlight: zenburn
