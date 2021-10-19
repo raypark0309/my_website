@@ -88,10 +88,10 @@ params:
         subtitle: My experience and skills
         title: Resume
         url: '/files/Hyuk Park CV 1.pdf'
-      - image: pic1.png
+      - image: pic14.png
         subtitle: 
         title: AirBnb Analytics 
-        url: '/blogs/Group_project_Final Version.Rmd'
+        url: blogs/blog2
       #- image: pic04.jpg
         #subtitle: Nisl Sed Aliquam
         #title: Ipsum
