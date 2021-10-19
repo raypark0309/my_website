@@ -7,6 +7,7 @@ description: Resume of Ray Park
 draft: false
 image: pic07.jpg
 keywords: ""
+url: Hyuk Park CV.pdf
 slug: tempus
 title: Resume
 ---
