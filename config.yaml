@@ -75,7 +75,7 @@ params:
       #- name: Elements
         #url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
+    subtitle: By Ray Park
     title: London Business School
   tiles:
     enable: yes
