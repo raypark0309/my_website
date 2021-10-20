@@ -1,4 +1,15 @@
 ---
+categories:
+- ""
+- ""
+date: "2017-10-31T22:26:13-05:00"
+description: Data Analytics of AirBnb in Amsterdam
+draft: false
+image: pic22.png
+keywords: ""
+slug: tempus
+title: AirBnB Analytics 
+---
 title: "Final Group Project: AirBnB analytics"
 date: "12 Oct 2021"
 author: "Reading Time: About 8 minutes"
