@@ -8,6 +8,7 @@ draft: false
 image: pic07.jpg
 keywords: ""
 slug: tempus
+url: '/files/Hyuk Park CV 1.pdf'
 title: Resume
 ---
 
