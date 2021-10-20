@@ -1,21 +1,21 @@
 baseURL: https://rayparkportfolio.netlify.app
 languageCode: en-us
-title: Forty
+title: London Business School
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: 
     subtitle: |-
-      MFA Student at London Business School
+      MFA Student at London Business School 
     title: Hey, I'm RAY PARK
   blog: {}
   contact:
     address:
-      - city: London, NW6 1PF
+      - city: London, NW1 4SA
         country: United Kingdom
-        street: 211 Sumatra Road
+        street: Regent's Park
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -24,7 +24,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (+44) 078 280 6781
+      - phone: (+44) 070 238 6831
         title: Phone
   custom_css: []
   custom_js: []
