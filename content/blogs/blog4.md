@@ -11,59 +11,10 @@ slug: aliquam
 title: About
 ---
 
-Ray Park was born in Seoul, South Korea, and grew up in Boston, United States of America. He studied Mathematics at King's College London and worked at PwC UK as an audit associate. He is studying Financial Analysis at London Business School. 
+**Ray Park** was born in Seoul, South Korea, and grew up in Boston, United States of America. He studied Mathematics at __*King's College London*__ and worked at __*PwC UK*__ as an audit associate. He is studying Financial Analysis at __*London Business School*__. 
 
-He is studying the following courses at London Business School: 
-
-*fdf
-**fsdf
-# fsfsdfsd
-## Hello 
-### Hello 
-
--
-
---
-
---------------------
-
-Hello 
-
-### Today's shopping list:
-
-* Milk
-* Eggs
-* Cereal
-* Fruit
-
-* a bullet point
-- a bullet point
-+ still a bullet point
-
-*Time* to learn some markdown!
-
-Time to _learn_ some markdown!
-
-Time to learn **some** markdown!
-
-Time to learn some __markdown!__
-
-Time to learn __*some*__ markdown!
-
-Time to **_learn_** some markdown!
-
-Time ***to*** learn some markdown!
-
-___Time___ to learn some markdown!
-
-1. First item on our numbered list
-    * a bullet point
-    - a bullet point
-    + still a bullet point
-  
-2. Second item on our numbered list
-    * a bullet point:
-        * Now with a sub-list to our sub-list
-            * still with a sub-list to our sub-list
-    - a bullet point
-    + still a bullet point
+He is studying the following courses: 
+------------------------------------------
+* Data Analytics for Finance
+* Investment Fundamentals
+* Analysis of Financial Statements
